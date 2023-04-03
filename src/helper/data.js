@@ -24,7 +24,7 @@ export const data = [
     name: "Mercedes Car Rental App",
     image: carrental,
     github: "https://github.com/odabasi61/react-car-rental-cssmodules",
-    live: "https://charming-horse-ea4b07.netlify.app/",
+    live: "https://superb-mermaid-973da2.netlify.app/",
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ export const data = [
     name: "Wonderlust Nature Tour Project",
     image: wonderlust,
     github: "https://github.com/odabasi61/react-wonderlust-tailwind",
-    live: "https://illustrious-mermaid-d8f70a.netlify.app/",
+    live: "https://dashing-banoffee-ba6a52.netlify.app/",
   },
   {
     id: 4,

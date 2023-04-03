@@ -14,9 +14,12 @@ const Home = () => {
           I'm a frontend web developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I’m a frontend web developer specializing in building (and
-          occasionally designing) exceptional digital experiences. Currently,
-          I’m focused on building responsive frontend web applications.
+          I have experience working with HTML, CSS, JavaScript, React, and
+          TypeScript. I've always been interested in technology and the way it
+          can be used to solve real-world problems. That's why I decided to
+          pursue a career in web development. I love the creative process of
+          designing and building websites that are both beautiful and
+          functional.
         </p>
         <Link to="work">
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
