@@ -15,7 +15,7 @@ import carrental from "../assets/carrental.png";
 import amg from "../assets/amg.png";
 import wonderlust from "../assets/wonderlust.png";
 import cyrpto from "../assets/cyripto.png";
-import nba from "../assets/nba.png";
+import sinop from "../assets/sinop.png";
 import book from "../assets/book.png";
 
 export const data = [
@@ -49,10 +49,10 @@ export const data = [
   },
   {
     id: 5,
-    name: "NBA Legends",
-    image: nba,
-    github: "https://github.com/odabasi61/react-nba-legends",
-    live: "https://lambent-brioche-9cd049.netlify.app/",
+    name: "Visit Sinop",
+    image: sinop,
+    github: "https://github.com/odabasi61/react-visit-sinop-bootstrap",
+    live: "https://melodic-frangipane-0349cb.netlify.app/",
   },
   {
     id: 6,
